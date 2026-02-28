@@ -20,6 +20,6 @@
 - [x] GitHub 帳號已設定
 - [x] 已建立本 repo 並 push 初始檔案
 - [x] README.md 已填寫並包含必要資訊
-- [ ] GitHub Pages 已啟用並可存取
-- [ ] 已提交作業表單（如有）
+- [x] GitHub Pages 已啟用並可存取
+- [ ] 已提交作業表單
 
